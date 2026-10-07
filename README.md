@@ -1,19 +1,19 @@
 # Rewood 🪵
 Upcycled Furniture Marketplace is a platform for buying, selling, donating, and restoring used furniture. It connects users with local sellers, designers, and craftsmen, offering an interactive Before &amp; After experience and convenient shipping and local inspection options. Users can also request restoration services for furniture they already own.
 # Team Members 👥
-Aya Abdelhakim Fahmy- UI/UX Designer
+Aya Abdelhakim Fahmy- UI/UX Designer 💻
 
-Amany Gamal Ebrahim-UI/UX Designer
+Amany Gamal Ebrahim-UI/UX Designer 💻
 
-Mohamed Abdo Dawaba-UX Researcher
+Mohamed Abdo Dawaba-UX Researcher 💻
 
-Aya Mohsen Abdelaziz-UX Researcher
+Aya Mohsen Abdelaziz-UX Researcher 💻
 
-Abdallah Reda Taher-UX Researcher
+Abdallah Reda Taher-UX Researcher 💻
 
-Ahmed Mohamed Reda-case study doucmentation
+Ahmed Mohamed Reda-case study documentation 💻
 
--Instructor: Mohamed abokammar
+-Instructor: Mohamed abokammar 
 
 # Project Links 🔗
 
