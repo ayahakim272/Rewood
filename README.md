@@ -24,3 +24,6 @@ Ahmed Mohamed Reda-case study documentation 💻
 [MIRO LINK UX RESEARCH](https://miro.com/app/board/uXjVEY-WeLI=/?share_link_id=823140023193)
 
 [rewood ux presentation](https://drive.google.com/file/d/1GHVB6hKupTE3qvBDIFNdjBEhDNHEpoxy/view?usp=drive_link)
+
+[figma link
+](https://www.figma.com/design/I1tSsrDdnLd8kGeJDNoTao/Rewood-give-the-wood-second-life?node-id=0-1&t=Zhntdzn7ZLIzW1iU-1)
